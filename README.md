@@ -1,5 +1,5 @@
 ## 安装
 
 ```bash
-composer require feelri/utils
+composer require feelri/finder
 ```
